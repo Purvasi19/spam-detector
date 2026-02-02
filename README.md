@@ -24,16 +24,6 @@ The model achieves good accuracy on unseen data
 Naive Bayes performs efficiently for text-based classification
 The system reliably distinguishes spam from normal messages
 
-Running the Project:
-git clone https://github.com/your-username/spam-detector.git
-cd spam-detector
-pip install -r requirements.txt
-python spam_detector.py
-
-Sample Output:
-Message: "Congratulations! You have won a free prize"
-Result: Spam
-
 Future Improvements:
 Use deep learning models like LSTM or Transformers
 Deploy the model as a web app using Flask or Stream
